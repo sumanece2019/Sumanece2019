@@ -2,7 +2,7 @@ package Calculation;
 
 public class Bank {
 	
-	int roi=99;
+	int roi=999;
 	
 	public void getROI()
 	{
