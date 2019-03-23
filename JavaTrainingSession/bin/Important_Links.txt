@@ -1,0 +1,60 @@
+https://beginnersbook.com/2013/05/java-interface/
+
+https://www.javatpoint.com/collections-in-java
+
+https://www.tutorialspoint.com/java/java_arraylist_class.htm
+
+http://geekknowledgefactory.blogspot.com/2011/12/oops-principles-pie.html
+
+
+What do u mean by collections?
+
+Collections is kind of a framework which provides architecture 
+to store and manipulated different data and groups of objects.
+
+operations via Collections:
+
+Searching
+Insertion
+Manipulation
+Deletion
+Sorting
+
+Interfaces in Collections:
+
+Set
+List
+Queue
+Deque
+SortedSet
+
+Classes in in Collections:
+
+ArrayList
+Vector
+LinkedList
+HashSet
+TreeSet
+PriorityQueue
+stack
+
+Java.util package
+
+Collection --> It's an interface and member of java.util package.
+Collection is a root level interface of the Java Collection Framework. 
+
+Collections --> It's an utility class in java.
+It consists of only static methods which are used to operate on objects of type Collection. 
+
+
+pending topics
+
+nested class
+constructor overriding
+covariant return type.
+access modifier for interface members
+nested interface
+
+
+
+
